@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_TASK",
+  "summary": "Task checklist for building an iOS body shape identification and virtual try-on MVP app. Covers planning, execution (project setup, models, questionnaire, photo analysis, classification, recommendations, AI try-on, UI), and verification phases.",
+  "updatedAt": "2026-03-15T18:33:29.113048Z"
+}

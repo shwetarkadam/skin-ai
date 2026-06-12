@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>BodyFit uses your camera to take body photos for shape analysis and virtual try-on.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>BodyFit needs access to your photo library to select body and clothing photos.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>BodyFit would like to save virtual try-on results to your photo library.</string>
+</dict>
+</plist>

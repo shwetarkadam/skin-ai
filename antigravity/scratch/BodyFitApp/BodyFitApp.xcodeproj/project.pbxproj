@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA000001 /* BodyFitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000001 /* BodyFitApp.swift */; };
+		AA000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000002 /* ContentView.swift */; };
+		AA000003 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB000003 /* Assets.xcassets */; };
+		AA000010 /* BodyProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000010 /* BodyProfile.swift */; };
+		AA000011 /* BodyShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000011 /* BodyShape.swift */; };
+		AA000012 /* Clothing.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000012 /* Clothing.swift */; };
+		AA000013 /* FitRecommendation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000013 /* FitRecommendation.swift */; };
+		AA000014 /* TryOnMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000014 /* TryOnMode.swift */; };
+		AA000020 /* VisionAnalyzer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000020 /* VisionAnalyzer.swift */; };
+		AA000021 /* ShapeClassifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000021 /* ShapeClassifier.swift */; };
+		AA000022 /* FitEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000022 /* FitEngine.swift */; };
+		AA000023 /* HuggingFaceAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000023 /* HuggingFaceAPI.swift */; };
+		AA000030 /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000030 /* OnboardingViewModel.swift */; };
+		AA000031 /* BodyAnalysisViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000031 /* BodyAnalysisViewModel.swift */; };
+		AA000032 /* ClothingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000032 /* ClothingViewModel.swift */; };
+		AA000033 /* TryOnViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000033 /* TryOnViewModel.swift */; };
+		AA000040 /* Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000040 /* Components.swift */; };
+		AA000041 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000041 /* WelcomeView.swift */; };
+		AA000042 /* QuestionnaireView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000042 /* QuestionnaireView.swift */; };
+		AA000043 /* PhotoCaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000043 /* PhotoCaptureView.swift */; };
+		AA000044 /* BodyProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000044 /* BodyProfileView.swift */; };
+		AA000045 /* ClothingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000045 /* ClothingViews.swift */; };
+		AA000046 /* TryOnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000046 /* TryOnView.swift */; };
+		AA000047 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000047 /* MainTabView.swift */; };
+		AA000050 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000050 /* Constants.swift */; };
+		AA000051 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000051 /* Extensions.swift */; };
+		AA000052 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB000052 /* ImagePicker.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AB000001 /* BodyFitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyFitApp.swift; sourceTree = "<group>"; };
+		AB000002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AB000003 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AB000004 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB000010 /* BodyProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyProfile.swift; sourceTree = "<group>"; };
+		AB000011 /* BodyShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyShape.swift; sourceTree = "<group>"; };
+		AB000012 /* Clothing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clothing.swift; sourceTree = "<group>"; };
+		AB000013 /* FitRecommendation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitRecommendation.swift; sourceTree = "<group>"; };
+		AB000014 /* TryOnMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryOnMode.swift; sourceTree = "<group>"; };
+		AB000020 /* VisionAnalyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionAnalyzer.swift; sourceTree = "<group>"; };
+		AB000021 /* ShapeClassifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeClassifier.swift; sourceTree = "<group>"; };
+		AB000022 /* FitEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitEngine.swift; sourceTree = "<group>"; };
+		AB000023 /* HuggingFaceAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HuggingFaceAPI.swift; sourceTree = "<group>"; };
+		AB000030 /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
+		AB000031 /* BodyAnalysisViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyAnalysisViewModel.swift; sourceTree = "<group>"; };
+		AB000032 /* ClothingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClothingViewModel.swift; sourceTree = "<group>"; };
+		AB000033 /* TryOnViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryOnViewModel.swift; sourceTree = "<group>"; };
+		AB000040 /* Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Components.swift; sourceTree = "<group>"; };
+		AB000041 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		AB000042 /* QuestionnaireView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionnaireView.swift; sourceTree = "<group>"; };
+		AB000043 /* PhotoCaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCaptureView.swift; sourceTree = "<group>"; };
+		AB000044 /* BodyProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyProfileView.swift; sourceTree = "<group>"; };
+		AB000045 /* ClothingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClothingViews.swift; sourceTree = "<group>"; };
+		AB000046 /* TryOnView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryOnView.swift; sourceTree = "<group>"; };
+		AB000047 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		AB000050 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		AB000051 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		AB000052 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		AC000001 /* BodyFitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BodyFitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AD000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AE000001 = {
+			isa = PBXGroup;
+			children = (
+				AE000002 /* BodyFitApp */,
+				AE000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AE000002 /* BodyFitApp */ = {
+			isa = PBXGroup;
+			children = (
+				AB000001 /* BodyFitApp.swift */,
+				AB000002 /* ContentView.swift */,
+				AB000004 /* Info.plist */,
+				AB000003 /* Assets.xcassets */,
+				AE000010 /* Models */,
+				AE000020 /* Services */,
+				AE000030 /* ViewModels */,
+				AE000040 /* Views */,
+				AE000050 /* Utilities */,
+			);
+			path = BodyFitApp;
+			sourceTree = "<group>";
+		};
+		AE000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AC000001 /* BodyFitApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AE000010 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				AB000010 /* BodyProfile.swift */,
+				AB000011 /* BodyShape.swift */,
+				AB000012 /* Clothing.swift */,
+				AB000013 /* FitRecommendation.swift */,
+				AB000014 /* TryOnMode.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		AE000020 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				AB000020 /* VisionAnalyzer.swift */,
+				AB000021 /* ShapeClassifier.swift */,
+				AB000022 /* FitEngine.swift */,
+				AB000023 /* HuggingFaceAPI.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		AE000030 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				AB000030 /* OnboardingViewModel.swift */,
+				AB000031 /* BodyAnalysisViewModel.swift */,
+				AB000032 /* ClothingViewModel.swift */,
+				AB000033 /* TryOnViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		AE000040 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AB000047 /* MainTabView.swift */,
+				AE000041 /* Components */,
+				AE000042 /* Onboarding */,
+				AE000043 /* Profile */,
+				AE000044 /* Clothing */,
+				AE000045 /* TryOn */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		AE000041 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				AB000040 /* Components.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		AE000042 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				AB000041 /* WelcomeView.swift */,
+				AB000042 /* QuestionnaireView.swift */,
+				AB000043 /* PhotoCaptureView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		AE000043 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				AB000044 /* BodyProfileView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		AE000044 /* Clothing */ = {
+			isa = PBXGroup;
+			children = (
+				AB000045 /* ClothingViews.swift */,
+			);
+			path = Clothing;
+			sourceTree = "<group>";
+		};
+		AE000045 /* TryOn */ = {
+			isa = PBXGroup;
+			children = (
+				AB000046 /* TryOnView.swift */,
+			);
+			path = TryOn;
+			sourceTree = "<group>";
+		};
+		AE000050 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				AB000050 /* Constants.swift */,
+				AB000051 /* Extensions.swift */,
+				AB000052 /* ImagePicker.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AF000001 /* BodyFitApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AG000003 /* Build configuration list for PBXNativeTarget "BodyFitApp" */;
+			buildPhases = (
+				AF000002 /* Sources */,
+				AD000001 /* Frameworks */,
+				AF000003 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BodyFitApp;
+			productName = BodyFitApp;
+			productReference = AC000001 /* BodyFitApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AH000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					AF000001 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = AG000001 /* Build configuration list for PBXProject "BodyFitApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AE000001;
+			productRefGroup = AE000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AF000001 /* BodyFitApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AF000003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA000003 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AF000002 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA000001 /* BodyFitApp.swift in Sources */,
+				AA000002 /* ContentView.swift in Sources */,
+				AA000010 /* BodyProfile.swift in Sources */,
+				AA000011 /* BodyShape.swift in Sources */,
+				AA000012 /* Clothing.swift in Sources */,
+				AA000013 /* FitRecommendation.swift in Sources */,
+				AA000014 /* TryOnMode.swift in Sources */,
+				AA000020 /* VisionAnalyzer.swift in Sources */,
+				AA000021 /* ShapeClassifier.swift in Sources */,
+				AA000022 /* FitEngine.swift in Sources */,
+				AA000023 /* HuggingFaceAPI.swift in Sources */,
+				AA000030 /* OnboardingViewModel.swift in Sources */,
+				AA000031 /* BodyAnalysisViewModel.swift in Sources */,
+				AA000032 /* ClothingViewModel.swift in Sources */,
+				AA000033 /* TryOnViewModel.swift in Sources */,
+				AA000040 /* Components.swift in Sources */,
+				AA000041 /* WelcomeView.swift in Sources */,
+				AA000042 /* QuestionnaireView.swift in Sources */,
+				AA000043 /* PhotoCaptureView.swift in Sources */,
+				AA000044 /* BodyProfileView.swift in Sources */,
+				AA000045 /* ClothingViews.swift in Sources */,
+				AA000046 /* TryOnView.swift in Sources */,
+				AA000047 /* MainTabView.swift in Sources */,
+				AA000050 /* Constants.swift in Sources */,
+				AA000051 /* Extensions.swift in Sources */,
+				AA000052 /* ImagePicker.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AG000010 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AG000011 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AG000020 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VT5Y8VB2A2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BodyFitApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = BodyFit;
+				INFOPLIST_KEY_NSCameraUsageDescription = "BodyFit uses your camera to take body photos for shape analysis and virtual try-on.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "BodyFit needs access to your photo library to select body and clothing photos.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.antigravity.bodyfit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AG000021 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VT5Y8VB2A2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BodyFitApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = BodyFit;
+				INFOPLIST_KEY_NSCameraUsageDescription = "BodyFit uses your camera to take body photos for shape analysis and virtual try-on.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "BodyFit needs access to your photo library to select body and clothing photos.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.antigravity.bodyfit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AG000001 /* Build configuration list for PBXProject "BodyFitApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AG000010 /* Debug */,
+				AG000011 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AG000003 /* Build configuration list for PBXNativeTarget "BodyFitApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AG000020 /* Debug */,
+				AG000021 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AH000001 /* Project object */;
+}

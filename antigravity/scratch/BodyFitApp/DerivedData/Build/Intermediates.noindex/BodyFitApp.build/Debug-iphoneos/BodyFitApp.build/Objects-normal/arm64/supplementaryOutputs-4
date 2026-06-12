@@ -1,0 +1,18 @@
+"/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/BodyFitApp/ViewModels/BodyAnalysisViewModel.swift":
+  dependencies: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/BodyAnalysisViewModel.d"
+  swift-dependencies: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/BodyAnalysisViewModel.swiftdeps"
+  const-values: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/BodyAnalysisViewModel.swiftconstvalues"
+  object: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/BodyAnalysisViewModel.o"
+  diagnostics: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/BodyAnalysisViewModel.dia"
+"/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/BodyFitApp/ViewModels/ClothingViewModel.swift":
+  dependencies: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/ClothingViewModel.d"
+  object: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/ClothingViewModel.o"
+  swift-dependencies: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/ClothingViewModel.swiftdeps"
+  const-values: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/ClothingViewModel.swiftconstvalues"
+  diagnostics: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/ClothingViewModel.dia"
+"/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/BodyFitApp/ViewModels/TryOnViewModel.swift":
+  diagnostics: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/TryOnViewModel.dia"
+  swift-dependencies: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/TryOnViewModel.swiftdeps"
+  object: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/TryOnViewModel.o"
+  dependencies: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/TryOnViewModel.d"
+  const-values: "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/DerivedData/Build/Intermediates.noindex/BodyFitApp.build/Debug-iphoneos/BodyFitApp.build/Objects-normal/arm64/TryOnViewModel.swiftconstvalues"

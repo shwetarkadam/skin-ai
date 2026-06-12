@@ -1,0 +1,64 @@
+{
+  "source": "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/BodyFitApp/Views/Profile/BodyProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Body Profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "About Your Shape",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ratios come from on-device Apple Vision pose; body shape also uses your tape measurements when confidence is low.",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "From your photo",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Measurements",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Styling Tips",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Concerns",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 115
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,240 @@
+{
+  "source": "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/BodyFitApp/Views/MainTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Wardrobe",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome to",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "BodyFit",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Body Shape",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%% match",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try on a dress",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Virtual try-on — see how it looks on you",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Items",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 226
+        }
+      },
+      {
+        "comment": "",
+        "key": "See All",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset Profile?",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 399
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try-On Mode",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 303
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try-On Mode",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 311
+        }
+      },
+      {
+        "comment": "",
+        "key": "Required for virtual try-on feature. Get a free token at huggingface.co/settings/tokens",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 328
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hugging Face API Token",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 324
+        }
+      },
+      {
+        "comment": "",
+        "key": "hf_...",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 332
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Token",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 342
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start fresh with a new body profile and questionnaire",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 355
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset Profile",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 351
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset Everything",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "BodyFit MVP",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 383
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 387
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 400
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 405
+        }
+      },
+      {
+        "comment": "",
+        "key": "This will delete your body profile and all saved clothing items. This cannot be undone.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 407
+        }
+      }
+    ]
+  },
+  "version": 1
+}

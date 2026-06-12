@@ -1,0 +1,80 @@
+{
+  "source": "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/BodyFitApp/Views/Onboarding/PhotoCaptureView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Body Photo (Optional)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload a full-body photo to refine your body shape analysis. This improves accuracy significantly.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tips for best results",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyzing body proportions...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to upload a full-body photo",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stand straight, arms slightly away from body",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Different Photo",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Complete Setup",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skip for Now",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 131
+        }
+      }
+    ]
+  },
+  "version": 1
+}

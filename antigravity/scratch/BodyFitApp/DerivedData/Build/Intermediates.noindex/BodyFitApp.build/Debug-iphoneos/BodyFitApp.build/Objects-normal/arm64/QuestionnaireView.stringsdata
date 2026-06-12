@@ -1,0 +1,48 @@
+{
+  "source": "/Users/shwetakadam/eng_projects/antigravity/scratch/BodyFitApp/BodyFitApp/Views/Onboarding/QuestionnaireView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Use a flexible tape measure. Wrap it around the fullest part of each area, keeping it level and snug but not tight.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "How to measure",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 272
+        }
+      }
+    ]
+  },
+  "version": 1
+}
